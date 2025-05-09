@@ -1,7 +1,7 @@
 {
   "name": "akshata-thorkar-portfolio",
   "version": "0.1.0",
-  "homepage": "https://akshata-thorkar.github.io/portfolio",
+  "homepage": "https://rishavchanda.github.io",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
